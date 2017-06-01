@@ -1,0 +1,1230 @@
+[ 2017-04-21T08:41:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:41:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:41:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:45:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000631s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:45:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000535s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:45:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000544s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000449s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000738s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000466s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000417s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000573s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:46:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000635s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000516s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000755s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000731s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000659s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:47:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000533s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000752s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000630s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001185s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000569s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000427s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:48:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000601s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000770s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000447s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000060s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000517s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:49:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000656s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000423s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000592s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:50:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000763s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000586s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:51:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000583s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000421s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:03+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000422s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000597s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:08+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000418s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:13+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000393s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:23+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000902s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000685s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:28+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:33+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:43+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000854s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:53+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000735s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:52:58+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000736s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:03+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000639s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:08+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000617s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:13+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000690s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000433s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000085s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:23+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000514s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000524s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:28+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000677s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000504s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:33+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000788s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000442s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:43+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000671s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000593s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000676s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:53+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000647s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000645s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:53:58+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000649s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:03+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000707s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:08+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:13+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000415s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:23+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:27+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:28+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:32+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000721s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:33+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000657s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000714s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000505s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:43+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000489s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000841s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:53+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:57+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f9561de3d0041bf80612f8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:54:58+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f957aee3d0041bf80612fa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000698s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:55:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000455s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001926s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000866s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000623s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000669s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000575s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000665s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000688s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:55:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000465s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:56:00+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:56:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:56:56+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000483s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:01+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000440s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000550s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000089s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000888s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:16+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000720s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:21+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000521s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000666s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:36+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000397s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:46+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000438s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:57:56+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:01+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000771s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000434s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000844s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:16+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000570s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:21+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000658s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000750s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000571s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:36+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/pfop_status.php?id=z2.58f958cfe3d0041bf80612fb
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000654s ]
+ERR: 无法加载模块:Pfop_status
+
+[ 2017-04-21T08:58:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000097s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000653s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000982s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000820s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000682s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000728s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000706s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000510s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T08:58:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T09:02:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T09:02:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/css/bootstrap.min.css.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000751s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T09:02:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.woff
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+ERR: 无法加载模块:Public
+
+[ 2017-04-21T09:02:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Public/Qiniu/fonts/glyphicons-halflings-regular.ttf
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000836s ]
+ERR: 无法加载模块:Public
+

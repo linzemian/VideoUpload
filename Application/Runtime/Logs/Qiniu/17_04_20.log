@@ -1,0 +1,2010 @@
+[ 2017-04-20T19:10:17+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000511s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000755s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000989s ]
+NOTIC: [2] Missing argument 1 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 11 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [2] Missing argument 2 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 11 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [8] Undefined variable: accessKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 14 行.
+NOTIC: [8] Undefined variable: secretKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000571s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000685s ]
+
+[ 2017-04-20T19:10:28+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000371s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000742s ]
+NOTIC: [2] Missing argument 1 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 11 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [2] Missing argument 2 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 11 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [8] Undefined variable: accessKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 14 行.
+NOTIC: [8] Undefined variable: secretKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 15 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000742s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000877s ]
+
+[ 2017-04-20T19:13:50+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000467s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000773s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:14:03+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+ERR: syntax error, unexpected 'CONST' (T_CONST)
+
+[ 2017-04-20T19:15:59+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000664s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:16:15+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000461s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000570s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:16:20+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000494s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000589s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000672s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:21:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:21:23+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:21:30+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000572s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000692s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:21:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000390s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:23:35+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000609s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000701s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:23:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000384s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000773s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001013s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:23:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000505s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000478s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000717s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000819s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000402s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000473s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000567s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:10+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000351s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000431s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000610s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:24:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000533s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:29:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000420s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000767s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:29:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000399s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000516s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:29:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000581s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000723s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000859s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:29:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000513s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000606s ]
+ERR: Class 'Qiniu\Controller\Smarty' not found
+
+[ 2017-04-20T19:31:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000470s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000608s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000689s ]
+ERR: Class 'Think\Smarty' not found
+
+[ 2017-04-20T19:31:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000359s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000551s ]
+ERR: Class 'Think\Smarty' not found
+
+[ 2017-04-20T19:32:26+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000683s ]
+
+[ 2017-04-20T19:32:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000377s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000612s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000695s ]
+
+[ 2017-04-20T19:34:34+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+
+[ 2017-04-20T19:37:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+ERR: syntax error, unexpected 'const' (T_CONST)
+
+[ 2017-04-20T19:37:37+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000419s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+ERR: syntax error, unexpected 'public' (T_PUBLIC), expecting end of file
+
+[ 2017-04-20T19:37:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000587s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-04-20T19:37:50+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000446s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000528s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-04-20T19:37:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000404s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 16 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 17 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 18 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 19 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 20 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 21 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 22 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 23 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000897s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001002s ]
+ERR: 无法加载控制器:Index
+
+[ 2017-04-20T19:42:35+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 8 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 10 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000556s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000637s ]
+ERR: Class 'Qiniu\Controller\Config' not found
+
+[ 2017-04-20T19:43:08+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000446s ]
+NOTIC: [8] Use of undefined constant DB_NAME - assumed 'DB_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 5 行.
+NOTIC: [8] Use of undefined constant DB_USER - assumed 'DB_USER' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 6 行.
+NOTIC: [8] Use of undefined constant DB_PWD - assumed 'DB_PWD' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 7 行.
+NOTIC: [8] Use of undefined constant DB_HOST - assumed 'DB_HOST' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 8 行.
+NOTIC: [8] Use of undefined constant AK - assumed 'AK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 9 行.
+NOTIC: [8] Use of undefined constant SK - assumed 'SK' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 10 行.
+NOTIC: [8] Use of undefined constant BUCKET_NAME - assumed 'BUCKET_NAME' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 12 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 13 行.
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Conf\config.php 第 15 行.
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000604s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+NOTIC: [8] Use of undefined constant DOMAIN - assumed 'DOMAIN' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 12 行.
+NOTIC: [8] Use of undefined constant UPTOKEN_URL - assumed 'UPTOKEN_URL' C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 16 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008747s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008870s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000645s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000695s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000785s ]
+
+[ 2017-04-20T19:46:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000668s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000788s ]
+
+[ 2017-04-20T19:46:55+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000650s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000739s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 29 行.
+
+[ 2017-04-20T19:47:25+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000545s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+NOTIC: [8] Undefined variable: arr C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 28 行.
+
+[ 2017-04-20T19:47:30+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+
+[ 2017-04-20T19:48:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000948s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001269s ]
+ERR: Call to a member function assign() on null
+
+[ 2017-04-20T19:48:24+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000416s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000551s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000650s ]
+
+[ 2017-04-20T19:48:46+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001097s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001226s ]
+
+[ 2017-04-20T19:49:06+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000509s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 29 行.
+ERR: Call to a member function assign() on null
+
+[ 2017-04-20T19:49:50+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000425s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000506s ]
+NOTIC: [8] Array to string conversion C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 30 行.
+NOTIC: [8] Array to string conversion C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 33 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000207s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000419s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000666s ]
+
+[ 2017-04-20T19:50:22+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000353s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000093s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000214s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009328s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009430s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000420s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000496s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000638s ]
+
+[ 2017-04-20T19:50:23+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000972s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001144s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000117s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007253s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007386s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000403s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000669s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000748s ]
+
+[ 2017-04-20T19:50:24+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000411s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000632s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000191s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007289s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007401s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000342s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2017-04-20T19:56:49+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000135s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000405s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007317s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007444s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000610s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000750s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000987s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001151s ]
+
+[ 2017-04-20T19:57:09+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000644s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006734s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000606s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001222s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2017-04-20T20:01:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000926s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001064s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000181s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007112s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007213s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000776s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-04-20T20:02:54+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001449s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000119s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000258s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008868s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009087s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001541s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001729s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001186s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001331s ]
+
+[ 2017-04-20T20:05:29+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000726s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000815s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000102s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000248s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006984s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007122s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000559s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000687s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001446s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001625s ]
+
+[ 2017-04-20T20:11:53+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000671s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000797s ]
+ERR: syntax error, unexpected '[', expecting identifier (T_STRING) or variable (T_VARIABLE) or '{' or '$'
+
+[ 2017-04-20T20:12:07+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001259s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001418s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000198s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000369s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000453s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000598s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000681s ]
+
+[ 2017-04-20T20:12:10+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000590s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000674s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000096s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000203s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008628s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008717s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000377s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000455s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000654s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000749s ]
+
+[ 2017-04-20T20:12:33+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000171s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008036s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008151s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000427s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000512s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000553s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000629s ]
+
+[ 2017-04-20T20:12:34+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000540s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005231s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005343s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000281s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000418s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000765s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000948s ]
+
+[ 2017-04-20T20:12:35+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000178s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006182s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006462s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000538s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001051s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001190s ]
+
+[ 2017-04-20T20:12:36+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000398s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001016s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006932s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007048s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000459s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000743s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000854s ]
+
+[ 2017-04-20T20:12:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000642s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000596s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000073s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000163s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005827s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005940s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000519s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-04-20T20:12:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000454s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000534s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000084s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000189s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007183s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007282s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000287s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000465s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000556s ]
+
+[ 2017-04-20T20:12:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000429s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000349s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007395s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007556s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000684s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000846s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001056s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001198s ]
+
+[ 2017-04-20T20:12:49+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000633s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000584s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000707s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000070s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005171s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005266s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000393s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000727s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000858s ]
+
+[ 2017-04-20T20:12:49+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000392s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000806s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001012s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000103s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000236s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005775s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005934s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000675s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000792s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000580s ]
+
+[ 2017-04-20T20:12:49+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000361s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000479s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000150s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005079s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005171s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000345s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000474s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000568s ]
+
+[ 2017-04-20T20:12:49+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000456s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000537s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007498s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000415s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000540s ]
+
+[ 2017-04-20T20:12:54+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000408s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000485s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000574s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000130s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000284s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008471s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000327s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000423s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000468s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000546s ]
+
+[ 2017-04-20T20:13:33+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000434s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000174s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008906s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000295s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000463s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000541s ]
+
+[ 2017-04-20T20:14:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000429s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000699s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000801s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008325s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000399s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000483s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000568s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000660s ]
+
+[ 2017-04-20T20:16:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000654s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000736s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000082s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000184s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006284s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006418s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000922s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001172s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001494s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001647s ]
+
+[ 2017-04-20T20:16:54+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000354s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000540s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006461s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006553s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000425s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000547s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000647s ]
+
+[ 2017-04-20T20:16:59+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000362s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000443s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005256s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005390s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000508s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000643s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001045s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001183s ]
+
+[ 2017-04-20T20:17:44+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000406s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000081s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000182s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007880s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007992s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000357s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000561s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000641s ]
+
+[ 2017-04-20T20:20:00+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000468s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000749s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000855s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007646s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007746s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000494s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000593s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000560s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000639s ]
+
+[ 2017-04-20T20:20:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001290s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001500s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000192s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005871s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005976s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000386s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000472s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000585s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000663s ]
+
+[ 2017-04-20T20:20:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000556s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002685s ]
+ERR: Class 'Qiniu\Controller\Auth' not found
+
+[ 2017-04-20T20:20:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000541s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000624s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006882s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000368s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000447s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000550s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000627s ]
+
+[ 2017-04-20T20:20:40+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000487s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000685s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+ERR: Class 'Qiniu\Controller\Auth' not found
+
+[ 2017-04-20T20:21:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000480s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000572s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000108s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005844s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005936s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000275s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000351s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000490s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000566s ]
+
+[ 2017-04-20T20:25:46+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000437s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001006s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001169s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000168s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007621s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007752s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000674s ]
+
+[ 2017-04-20T20:25:46+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000742s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000800s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000928s ]
+ERR: Class 'Qiniu\Controller\Auth' not found
+
+[ 2017-04-20T20:26:04+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000790s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001914s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002162s ]
+ERR: Class 'Qiniu\Controller\Auth' not found
+
+[ 2017-04-20T20:27:21+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000388s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000857s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [2] Missing argument 1 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 40 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [2] Missing argument 2 for Qiniu\Auth::__construct(), called in C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php on line 40 and defined C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 12 行.
+NOTIC: [8] Undefined variable: accessKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 14 行.
+NOTIC: [8] Undefined variable: secretKey C:\wamp\www\thinkphp_3.2.3_full\ThinkPHP\Library\Vendor\Qiniu\Auth.php 第 15 行.
+
+[ 2017-04-20T20:27:34+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000519s ]
+ERR: Class 'Qiniu\Controller\Auth' not found
+
+[ 2017-04-20T20:27:59+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000552s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+ERR: Call to undefined function Qiniu\Controller\Qiniu\base64_urlSafeEncode()
+
+[ 2017-04-20T20:28:24+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000561s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000643s ]
+NOTIC: [8] Undefined variable: wmImg C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 54 行.
+NOTIC: [8] Undefined variable: wmImg C:\wamp\www\thinkphp_3.2.3_full\Application\Qiniu\Controller\IndexController.class.php 第 54 行.
+ERR: Class 'Qiniu\Zone' not found
+
+[ 2017-04-20T20:31:31+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000414s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001536s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001703s ]
+ERR: Class 'Qiniu\Config' not found
+
+[ 2017-04-20T20:33:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000428s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000639s ]
+ERR: Call to undefined function Qiniu\Controller\Qiniu\base64_urlSafeEncode()
+
+[ 2017-04-20T20:33:59+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000436s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000722s ]
+ERR: Call to undefined function Qiniu\functions\base64_urlSafeEncode()
+
+[ 2017-04-20T20:35:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000704s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000842s ]
+ERR: Call to undefined function functions\base64_urlSafeEncode()
+
+[ 2017-04-20T20:35:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000432s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000698s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000787s ]
+ERR: Class 'Qiniu\Zone' not found
+
+[ 2017-04-20T20:36:21+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000436s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000517s ]
+ERR: Class 'Qiniu\Http\Client' not found
+
+[ 2017-04-20T20:37:21+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000401s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000629s ]
+ERR: Class 'Qiniu\Http\Request' not found
+
+[ 2017-04-20T20:38:02+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000410s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000638s ]
+ERR: Class 'Qiniu\Http\Response' not found
+
+[ 2017-04-20T20:38:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000357s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000493s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001366s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001619s ]
+
+[ 2017-04-20T20:38:47+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000634s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000458s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000543s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000278s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009111s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009223s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000374s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000456s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000572s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000671s ]
+
+[ 2017-04-20T20:38:48+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001056s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001080s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001359s ]
+
+[ 2017-04-20T20:39:28+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000358s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001202s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000126s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000328s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011095s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011232s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000376s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000457s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000531s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000694s ]
+
+[ 2017-04-20T20:39:29+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000653s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000782s ]
+
+[ 2017-04-20T21:03:38+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000754s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000116s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011699s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011864s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000673s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000576s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000654s ]
+
+[ 2017-04-20T21:03:39+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002050s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000811s ]
+
+[ 2017-04-20T21:16:41+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000484s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000677s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000078s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006574s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006699s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000488s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000589s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000673s ]
+
+[ 2017-04-20T21:16:42+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000805s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001233s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000815s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000961s ]
+
+[ 2017-04-20T21:16:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000661s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006135s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006262s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000382s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000458s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000739s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000835s ]
+
+[ 2017-04-20T21:16:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003439s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003655s ]
+
+[ 2017-04-20T22:03:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000368s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000644s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000738s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000099s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000196s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006623s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006737s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000424s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000520s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000594s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000677s ]
+
+[ 2017-04-20T22:03:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000713s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000613s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000707s ]
+
+[ 2017-04-20T22:03:54+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000367s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000488s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000570s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000072s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000166s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005889s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005991s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000371s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000481s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000529s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000617s ]
+
+[ 2017-04-20T22:03:55+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000565s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000600s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000970s ]
+
+[ 2017-04-20T22:41:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000684s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007181s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007310s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000575s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000711s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001101s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001232s ]
+
+[ 2017-04-20T22:41:18+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000698s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000814s ]
+
+[ 2017-04-20T22:41:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000349s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006490s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006618s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000375s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000460s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000508s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000584s ]
+
+[ 2017-04-20T22:41:51+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000719s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001154s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001402s ]
+
+[ 2017-04-20T22:41:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000405s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000066s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000154s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006861s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000400s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000567s ]
+
+[ 2017-04-20T22:41:52+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000678s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000841s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000805s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000971s ]
+
+[ 2017-04-20T22:42:00+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000502s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000752s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000909s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000075s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000179s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007012s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007126s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000390s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000563s ]
+
+[ 2017-04-20T22:42:00+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001157s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001005s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001161s ]
+
+[ 2017-04-20T22:42:11+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000352s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000459s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000539s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000077s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000209s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000276s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000356s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000512s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000590s ]
+
+[ 2017-04-20T22:42:12+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000697s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001148s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001054s ]
+
+[ 2017-04-20T22:42:16+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000559s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000484s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000571s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000069s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000159s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005445s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000306s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000397s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000502s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000625s ]
+
+[ 2017-04-20T22:42:16+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000655s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000853s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001034s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000700s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2017-04-20T22:42:20+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000407s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000431s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000510s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000067s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.005475s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.005578s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000299s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000399s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000503s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000586s ]
+
+[ 2017-04-20T22:42:20+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000464s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000564s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000675s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000706s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000843s ]
+
+[ 2017-04-20T22:42:34+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/Qiniu
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000355s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000465s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000547s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000074s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007200s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007307s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000710s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000800s ]
+
+[ 2017-04-20T22:42:34+08:00 ] 127.0.0.1 /thinkphp_3.2.3_full/index.php/Qiniu/Index/uptoken.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000991s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000992s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001174s ]
+
